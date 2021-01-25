@@ -14,3 +14,5 @@ This line is added with IDEA! :sparkles: :pizza:
 This line is added by M :tada: :sparkles: :tada:
 
 Test in master branch
+
+Add another emoji :tada:
