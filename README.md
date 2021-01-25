@@ -15,4 +15,4 @@ This line is added by M :tada: :sparkles: :tada:
 
 Test in master branch
 
-Add another emoji :tada:
+Add another emoji :tada: :tada:
